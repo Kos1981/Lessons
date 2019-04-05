@@ -1,3 +1,0 @@
-print('Тестируем Гит')
-strin1
-string2
