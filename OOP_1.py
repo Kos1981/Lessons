@@ -54,4 +54,50 @@ print(newtext)
 
 
 
+#freq={}
+#for word in words:
+#    freq[word]=words.count(word)
+
+
+#for x, y in freq.items():
+ #   if y==3:
+  #      print(x,y)
+
+#print(max(freq.values()))
+
+
+
+
+
+
+
+
+#print(re.findall("[\w+]?[.]?\w+.ru[/\w+]?",text))
+
+#print(re.findall("\w*.ru/?\w+?",text))
+
+#Right print(re.findall('\w*[\.]?\w+\.ru/?\w*',text))
+#better print(re.findall('(?:\w+\.){1,2}ru/?\w*',text))
+#print(re.findall('(?:\w+\.){1,2}ru(?:/\w+){0,1}',text))
+#sentences=re.split('\.[ \n]',text)
+
+#words=re.findall('[а-яА-ЯёЁ]{4,}',text)
+#for sentence in sentences:
+ #   print(sentence)
+
+
+#for word in words:
+#      print(word)
+
+#frequency={}
+#for word in words:
+#    count = frequency.get(word, 0)
+#    frequency[word] = count + 1
+
+#frequency_list = frequency.keys()
+
+#print(frequency)
+#for words in frequency_list:
+ #   print(word, frequency[words])
+
 
